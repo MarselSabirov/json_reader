@@ -1,0 +1,9 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /home/user/Projects/json_reader_sabirov/target/scala-2.11/json_reader_sabirov_2.11-0.0.1-sources.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/example/JsonReader.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/user/Projects/json_reader_sabirov/src/main/scala/com/example/JsonReader.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/github/mrpowers/my/cool/project/SparkSessionWrapper.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/user/Projects/json_reader_sabirov/src/main/scala/com/github/mrpowers/my/cool/project/SparkSessionWrapper.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/github/mrpowers/my/cool/project/Manners.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/user/Projects/json_reader_sabirov/src/main/scala/com/github/mrpowers/my/cool/project/Manners.scala[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m

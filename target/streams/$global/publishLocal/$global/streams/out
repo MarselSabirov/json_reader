@@ -1,0 +1,15 @@
+[0m[[0m[0minfo[0m] [0m[0m:: delivering :: default#json_reader_sabirov_2.11;0.0.1 :: 0.0.1 :: release :: Sat Apr 04 20:51:22 MSK 2020[0m
+[0m[[0m[0mdebug[0m] [0m[0m	options = status=release pubdate=Sat Apr 04 20:51:22 MSK 2020 validate=true resolveDynamicRevisions=true merge=true resolveId=null pubBranch=null[0m
+[0m[[0m[0minfo[0m] [0m[0m	delivering ivy file to /home/user/Projects/json_reader_sabirov/target/scala-2.11/ivy-0.0.1.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	deliver done (6ms)[0m
+[0m[[0m[0mdebug[0m] [0m[0mlocal do not support transaction. ivy pattern does not use revision as a directory[0m
+[0m[[0m[0mdebug[0m] [0m[0m/home/user/.ivy2/local/default/json_reader_sabirov_2.11/0.0.1/ivys/ivy.xml already exists, nothing done[0m
+[0m[[0m[33mwarn[0m] [0m[0mAttempting to overwrite /home/user/.ivy2/local/default/json_reader_sabirov_2.11/0.0.1/ivys/ivy.xml (non-SNAPSHOT)[0m
+[0m[[0m[33mwarn[0m] [0m[0m	You need to remove it from the cache manually to take effect.[0m
+[0m[[0m[0mdebug[0m] [0m[0m/home/user/.ivy2/local/default/json_reader_sabirov_2.11/0.0.1/ivys/ivy.xml.sha1 already exists, nothing done[0m
+[0m[[0m[33mwarn[0m] [0m[0mAttempting to overwrite /home/user/.ivy2/local/default/json_reader_sabirov_2.11/0.0.1/ivys/ivy.xml.sha1 (non-SNAPSHOT)[0m
+[0m[[0m[33mwarn[0m] [0m[0m	You need to remove it from the cache manually to take effect.[0m
+[0m[[0m[0mdebug[0m] [0m[0m/home/user/.ivy2/local/default/json_reader_sabirov_2.11/0.0.1/ivys/ivy.xml.md5 already exists, nothing done[0m
+[0m[[0m[33mwarn[0m] [0m[0mAttempting to overwrite /home/user/.ivy2/local/default/json_reader_sabirov_2.11/0.0.1/ivys/ivy.xml.md5 (non-SNAPSHOT)[0m
+[0m[[0m[33mwarn[0m] [0m[0m	You need to remove it from the cache manually to take effect.[0m
+[0m[[0m[0minfo[0m] [0m[0m	published ivy to /home/user/.ivy2/local/default/json_reader_sabirov_2.11/0.0.1/ivys/ivy.xml[0m

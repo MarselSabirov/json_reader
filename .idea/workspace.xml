@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a99f3a17-770d-48fc-9a9b-5a626ff83544" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="SBT">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="json_reader_sabirov" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="json_reader_sabirov" type="f1a62948:ProjectNode" />
+                <item name="json_reader_sabirov-build" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="json_reader_sabirov" type="f1a62948:ProjectNode" />
+                <item name="json_reader_sabirov-build" type="2d1252cf:ModuleNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1ZxYU2XztB8s4qA6OhQLBMpmSYR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.folding" />
+  </component>
+  <component name="RunManager" selected="Compound.Compile&amp;Package">
+    <configuration name="JsonReader" type="Application" factoryName="Application">
+      <option name="INCLUDE_PROVIDED_SCOPE" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.example.JsonReader" />
+      <module name="json_reader_sabirov" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JsonReader" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.JsonReader" />
+      <module name="json_reader_sabirov" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="MakeProject" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Compile&amp;Package" type="CompoundRunConfigurationType">
+      <toRun name="package" type="SbtRunConfiguration" />
+      <toRun name="JsonReader" type="Application" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="CompoundRunConfigurationType">
+      <toRun name="package" type="SbtRunConfiguration" />
+      <toRun name="JsonReader" type="Application" />
+      <method v="2" />
+    </configuration>
+    <configuration name="package" type="SbtRunConfiguration" factoryName="sbt Task" show_console_on_std_err="false" show_console_on_std_out="false">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="tasks" value="package" />
+      <option name="useSbtShell" value="true" />
+      <option name="vmparams" value="-Xms512M -Xmx1024M -Xss1M -XX:+CMSClassUnloadingEnabled" />
+      <option name="workingDir" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.JsonReader" />
+      <item itemvalue="Compound.Compile&amp;Package" />
+      <item itemvalue="sbt Task.package" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.JsonReader" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="json_reader_sabirov" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="json_reader_sabirov [file:/home/user/Projects/json_reader_sabirov/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="json_reader_sabirov-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/build.sbt" value="3388907147" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="3029178416" />
+        <entry key="$PROJECT_DIR$/project/plugins.sbt" value="3635407264" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a99f3a17-770d-48fc-9a9b-5a626ff83544" name="Default Changelist" comment="" />
+      <created>1585782224776</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585782224776</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="411" y="106" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586026233725">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="411" y="106" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.32.1920.1048@0.32.1920.1048" timestamp="1586026233725" />
+    <state x="637" y="378" width="525" height="436" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1586018299350">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="637" y="378" width="525" height="436" key="#com.intellij.ide.util.TreeClassChooserDialog/0.32.1920.1048@0.32.1920.1048" timestamp="1586018299350" />
+    <state x="751" y="311" width="424" height="491" key="FileChooserDialogImpl" timestamp="1585785025832">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="751" y="311" width="424" height="491" key="FileChooserDialogImpl/0.32.1920.1048@0.32.1920.1048" timestamp="1585785025832" />
+    <state width="1671" height="230" key="GridCell.Tab.0.bottom" timestamp="1586036381915">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state width="1671" height="230" key="GridCell.Tab.0.bottom/0.32.1920.1048@0.32.1920.1048" timestamp="1586036381915" />
+    <state width="1671" height="230" key="GridCell.Tab.0.center" timestamp="1586036381915">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state width="1671" height="230" key="GridCell.Tab.0.center/0.32.1920.1048@0.32.1920.1048" timestamp="1586036381915" />
+    <state width="1671" height="230" key="GridCell.Tab.0.left" timestamp="1586036381915">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state width="1671" height="230" key="GridCell.Tab.0.left/0.32.1920.1048@0.32.1920.1048" timestamp="1586036381915" />
+    <state width="1671" height="230" key="GridCell.Tab.0.right" timestamp="1586036381915">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state width="1671" height="230" key="GridCell.Tab.0.right/0.32.1920.1048@0.32.1920.1048" timestamp="1586036381915" />
+    <state x="525" y="224" width="1022" height="737" key="SettingsEditor" timestamp="1586032359558">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="525" y="224" width="1022" height="737" key="SettingsEditor/0.32.1920.1048@0.32.1920.1048" timestamp="1586032359558" />
+  </component>
+</project>

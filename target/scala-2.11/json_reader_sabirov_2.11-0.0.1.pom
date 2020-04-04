@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://maven.apache.org/POM/4.0.0">
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>default</groupId>
+    <artifactId>json_reader_sabirov_2.11</artifactId>
+    <packaging>jar</packaging>
+    <description>json_reader_sabirov</description>
+    <version>0.0.1</version>
+    <name>json_reader_sabirov</name>
+    <organization>
+        <name>default</name>
+    </organization>
+    <dependencies>
+        <dependency>
+            <groupId>org.scala-lang</groupId>
+            <artifactId>scala-library</artifactId>
+            <version>2.11.12</version>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.spark</groupId>
+            <artifactId>spark-sql_2.11</artifactId>
+            <version>2.4.4</version>
+            <scope>provided</scope>
+        </dependency>
+        <dependency>
+            <groupId>mrpowers</groupId>
+            <artifactId>spark-daria</artifactId>
+            <version>0.35.2-s_2.11</version>
+        </dependency>
+        <dependency>
+            <groupId>MrPowers</groupId>
+            <artifactId>spark-fast-tests</artifactId>
+            <version>0.20.0-s_2.11</version>
+            <scope>test</scope>
+        </dependency>
+        <dependency>
+            <groupId>org.scalatest</groupId>
+            <artifactId>scalatest_2.11</artifactId>
+            <version>3.0.1</version>
+            <scope>test</scope>
+        </dependency>
+    </dependencies>
+    <repositories>
+        <repository>
+            <id>SparkPackagesRepo</id>
+            <name>Spark Packages Repo</name>
+            <url>http://dl.bintray.com/spark-packages/maven/</url>
+            <layout>default</layout>
+        </repository>
+    </repositories>
+</project>
