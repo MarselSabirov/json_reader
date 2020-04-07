@@ -4,7 +4,7 @@
 		module="json_reader_sabirov-build"
 		revision="0.1.0-SNAPSHOT"
 		status="integration"
-		publication="20200404205236"
+		publication="20200407011849"
 		e:sbtVersion="1.0" e:scalaVersion="2.12"
 	>
 		<description>

@@ -1,7 +1,153 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a99f3a17-770d-48fc-9a9b-5a626ff83544" name="Default Changelist" comment="" />
+    <list default="true" id="a99f3a17-770d-48fc-9a9b-5a626ff83544" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$a7f52780676e9668ae87$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$a7f52780676e9668ae87.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$a7f52780676e9668ae87.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/.sbt-compilation-infos/json_reader_sabirov-compile/compilation-info-08a0a2d7-6ede-431a-b0d6-538eb922ce80" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/.sbt-compilation-infos/json_reader_sabirov-compile/compilation-info-12eeded3-b3cc-4680-a64a-94e12ea1295d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/.sbt-compilation-infos/json_reader_sabirov-compile/compilation-info-1859c959-75ea-48e4-950c-eacc1ab0daac" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/.sbt-compilation-infos/json_reader_sabirov-compile/compilation-info-1d453256-87e8-4b0e-b784-58547dca8cd0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/.sbt-compilation-infos/json_reader_sabirov-compile/compilation-info-1e99a115-97b4-47b2-92a2-0fb7da62a0ce" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/.sbt-compilation-infos/json_reader_sabirov-compile/compilation-info-2a78d538-7bc6-4c8f-88a0-96782e536678" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/.sbt-compilation-infos/json_reader_sabirov-compile/compilation-info-2ef06d69-fc5a-46a1-8aa4-5f171359aff4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/.sbt-compilation-infos/json_reader_sabirov-compile/compilation-info-2f29cb28-04eb-4ab8-a5b3-da5e8e5284e8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/.sbt-compilation-infos/json_reader_sabirov-compile/compilation-info-379a4f6e-e716-4513-a27a-c249b82e0639" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/.sbt-compilation-infos/json_reader_sabirov-compile/compilation-info-3996f942-2e73-4b76-8bd8-cce6d87fcc8a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/.sbt-compilation-infos/json_reader_sabirov-compile/compilation-info-3afa6fe7-1866-4528-8290-425a704a6b51" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/.sbt-compilation-infos/json_reader_sabirov-compile/compilation-info-3ba51f15-ae49-47f7-9172-d1e1b6b9d17d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/.sbt-compilation-infos/json_reader_sabirov-compile/compilation-info-44f441e2-81cf-4340-9568-95abf346072e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/.sbt-compilation-infos/json_reader_sabirov-compile/compilation-info-48cca9f4-014a-4384-863c-b09359254ca7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/.sbt-compilation-infos/json_reader_sabirov-compile/compilation-info-53aa18dd-7c75-40aa-abc1-4bc612b59683" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/.sbt-compilation-infos/json_reader_sabirov-compile/compilation-info-57a3112b-0ae1-4bb6-ac7d-edf260c42de8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/.sbt-compilation-infos/json_reader_sabirov-compile/compilation-info-59e020b0-9a0c-4619-ae30-33a016b94a56" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/.sbt-compilation-infos/json_reader_sabirov-compile/compilation-info-643448c3-8770-4b04-a826-231df881759a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/.sbt-compilation-infos/json_reader_sabirov-compile/compilation-info-670966a5-5064-4ee4-b99d-f7a75f031d49" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/.sbt-compilation-infos/json_reader_sabirov-compile/compilation-info-675db1ad-fa6f-4b4a-b6e4-9481d1ef4c75" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/.sbt-compilation-infos/json_reader_sabirov-compile/compilation-info-6d0868cb-d262-4fc9-9a98-b3c504b527d7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/.sbt-compilation-infos/json_reader_sabirov-compile/compilation-info-71b60bbb-f728-4e48-84e6-96d2922964b0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/.sbt-compilation-infos/json_reader_sabirov-compile/compilation-info-71ef8a75-9963-43f1-862b-60f0e3767bea" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/.sbt-compilation-infos/json_reader_sabirov-compile/compilation-info-78c713a4-ca0b-4185-997f-dd533af4744d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/.sbt-compilation-infos/json_reader_sabirov-compile/compilation-info-82216951-ca23-4fe1-916c-94e3fcde2372" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/.sbt-compilation-infos/json_reader_sabirov-compile/compilation-info-906af1eb-6989-4200-82e5-b0823a57b8c5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/.sbt-compilation-infos/json_reader_sabirov-compile/compilation-info-92142e77-caf3-40c7-8177-bdf1dac59a58" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/.sbt-compilation-infos/json_reader_sabirov-compile/compilation-info-9beb736c-36cd-4c50-b5e0-955984ee8763" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/.sbt-compilation-infos/json_reader_sabirov-compile/compilation-info-a965b249-27b5-48f9-bb61-62bcd57553a3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/.sbt-compilation-infos/json_reader_sabirov-compile/compilation-info-afce6679-0586-40e4-8ec4-c968f17b1c1a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/.sbt-compilation-infos/json_reader_sabirov-compile/compilation-info-b8e57c24-eee4-4841-95d4-434f0026aebb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/.sbt-compilation-infos/json_reader_sabirov-compile/compilation-info-b9f2107c-436e-48a9-bd83-243fccd3e9d0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/.sbt-compilation-infos/json_reader_sabirov-compile/compilation-info-ba922749-b7fb-4337-92aa-86c7715e78a9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/.sbt-compilation-infos/json_reader_sabirov-compile/compilation-info-bd696e4c-731c-4865-9b7a-72e94d4de106" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/.sbt-compilation-infos/json_reader_sabirov-compile/compilation-info-c1dbd815-78f0-4de8-be9c-2cb68927666e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/.sbt-compilation-infos/json_reader_sabirov-compile/compilation-info-c2547f3d-c677-478e-9c54-c99dc901f2c3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/.sbt-compilation-infos/json_reader_sabirov-compile/compilation-info-c94977be-0429-48db-a2e4-0178a09fc73c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/.sbt-compilation-infos/json_reader_sabirov-compile/compilation-info-caf27ff4-c78b-4b40-a34f-821ea91931ed" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/.sbt-compilation-infos/json_reader_sabirov-compile/compilation-info-cf900db4-6f4a-4feb-b22a-8bf0bcf271b7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/.sbt-compilation-infos/json_reader_sabirov-compile/compilation-info-df5a4625-c8b3-4b37-be47-cdf9ca916932" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/.sbt-compilation-infos/json_reader_sabirov-compile/compilation-info-f67d560b-1953-47be-872e-a23ce45f943b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/.sbt-compilation-infos/json_reader_sabirov-compile/compilation-info-f8bf7c9d-cb9b-4d04-ad94-9942287ce319" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/.sbt-compilation-infos/json_reader_sabirov-compile/compilation-info-fe0746e4-0710-4cd6-84ab-4256e60e7bb0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/.sbt-compilation-infos/json_reader_sabirov-compile/compilation-info-ff697e0e-9d47-41d8-914d-72faab6e446b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$0578bad52343d940f422$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$0578bad52343d940f422.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$0578bad52343d940f422.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$3de3330cd52ab981698d$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$3de3330cd52ab981698d.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$3de3330cd52ab981698d.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$483da3997fec40ecad1e$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$483da3997fec40ecad1e.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$483da3997fec40ecad1e.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$49738e9295609a714cac$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$49738e9295609a714cac.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$49738e9295609a714cac.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$6b5f71d2d6f02c29657f$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$6b5f71d2d6f02c29657f.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$6b5f71d2d6f02c29657f.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$7547dff75a2f81e157c9$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$7547dff75a2f81e157c9.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$7547dff75a2f81e157c9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$7cafe57591b4ea104277$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$7cafe57591b4ea104277.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$7cafe57591b4ea104277.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$7d75bbb1001195cb4d4b$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$7d75bbb1001195cb4d4b.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$7d75bbb1001195cb4d4b.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$8c39ca3b14863406b4ca$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$8c39ca3b14863406b4ca.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$8c39ca3b14863406b4ca.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$96fc77d1b2e641e1a9a3$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$96fc77d1b2e641e1a9a3.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$96fc77d1b2e641e1a9a3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$c294a8d4097829145a1b$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$c294a8d4097829145a1b.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$c294a8d4097829145a1b.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$ccb89ea86da0c6b11c19$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$ccb89ea86da0c6b11c19.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$ccb89ea86da0c6b11c19.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$e47bed48014c213a7ed2$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$e47bed48014c213a7ed2.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$e47bed48014c213a7ed2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$f46cba87ae6b39b716cf$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$f46cba87ae6b39b716cf.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$f46cba87ae6b39b716cf.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/default/json_reader_sabirov-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/default/json_reader_sabirov-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/default/json_reader_sabirov-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/default/json_reader_sabirov-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-json_reader_sabirov-build-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-json_reader_sabirov-build-compile-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-json_reader_sabirov-build-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-json_reader_sabirov-build-compile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-json_reader_sabirov-build-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-json_reader_sabirov-build-optional.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-json_reader_sabirov-build-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-json_reader_sabirov-build-plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-json_reader_sabirov-build-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-json_reader_sabirov-build-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-json_reader_sabirov-build-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-json_reader_sabirov-build-provided.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-json_reader_sabirov-build-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-json_reader_sabirov-build-runtime-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-json_reader_sabirov-build-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-json_reader_sabirov-build-runtime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-json_reader_sabirov-build-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-json_reader_sabirov-build-scala-tool.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-json_reader_sabirov-build-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-json_reader_sabirov-build-test-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-json_reader_sabirov-build-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-json_reader_sabirov-build-test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/dependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/dependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/externalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/externalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/managedClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/managedClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/externalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/externalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/managedClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/managedClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/example/JsonReader.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/example/JsonReader.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/com/example/JsonReader$$anonfun$main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/com/example/JsonReader$$anonfun$main$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/com/example/JsonReader$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/com/example/JsonReader$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/com/example/JsonReader$WineBody$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/com/example/JsonReader$WineBody$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/com/example/JsonReader$WineBody$4$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/com/example/JsonReader$WineBody$4$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/json_reader_sabirov_2.11-0.0.1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/json_reader_sabirov_2.11-0.0.1.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/default/json_reader_sabirov_2.11/0.0.1/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/default/json_reader_sabirov_2.11/0.0.1/resolved.xml.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/default/json_reader_sabirov_2.11/0.0.1/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/default/json_reader_sabirov_2.11/0.0.1/resolved.xml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-json_reader_sabirov_2.11-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-json_reader_sabirov_2.11-compile-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-json_reader_sabirov_2.11-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-json_reader_sabirov_2.11-compile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-json_reader_sabirov_2.11-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-json_reader_sabirov_2.11-optional.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-json_reader_sabirov_2.11-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-json_reader_sabirov_2.11-plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-json_reader_sabirov_2.11-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-json_reader_sabirov_2.11-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-json_reader_sabirov_2.11-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-json_reader_sabirov_2.11-provided.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-json_reader_sabirov_2.11-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-json_reader_sabirov_2.11-runtime-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-json_reader_sabirov_2.11-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-json_reader_sabirov_2.11-runtime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-json_reader_sabirov_2.11-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-json_reader_sabirov_2.11-scala-tool.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-json_reader_sabirov_2.11-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-json_reader_sabirov_2.11-test-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-json_reader_sabirov_2.11-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-json_reader_sabirov_2.11-test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.11/input_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.11/input_dsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.11/output_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.11/output_dsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.11/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.11/inputs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.11/output" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.11/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/compileIncSetup/$global/streams/inc_compile_2.11.zip" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/compileIncSetup/$global/streams/inc_compile_2.11.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/dependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/dependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/externalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/externalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/managedClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/managedClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/packageBin/$global/streams/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/packageBin/$global/streams/inputs" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,7 +204,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.folding" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
   </component>
   <component name="RunManager" selected="Compound.Compile&amp;Package">
     <configuration name="JsonReader" type="Application" factoryName="Application">
@@ -135,6 +281,7 @@
     </option>
     <option name="modificationStamps">
       <map>
+        <entry key="$PROJECT_DIR$" value="4757588359502" />
         <entry key="$PROJECT_DIR$/build.sbt" value="3388907147" />
         <entry key="$PROJECT_DIR$/project/build.properties" value="3029178416" />
         <entry key="$PROJECT_DIR$/project/plugins.sbt" value="3635407264" />
@@ -167,25 +314,29 @@
       <screen x="0" y="32" width="1920" height="1048" />
     </state>
     <state x="751" y="311" width="424" height="491" key="FileChooserDialogImpl/0.32.1920.1048@0.32.1920.1048" timestamp="1585785025832" />
-    <state width="1671" height="230" key="GridCell.Tab.0.bottom" timestamp="1586036381915">
+    <state width="1864" height="230" key="GridCell.Tab.0.bottom" timestamp="1586220134804">
       <screen x="0" y="32" width="1920" height="1048" />
     </state>
-    <state width="1671" height="230" key="GridCell.Tab.0.bottom/0.32.1920.1048@0.32.1920.1048" timestamp="1586036381915" />
-    <state width="1671" height="230" key="GridCell.Tab.0.center" timestamp="1586036381915">
+    <state width="1864" height="230" key="GridCell.Tab.0.bottom/0.32.1920.1048@0.32.1920.1048" timestamp="1586220134804" />
+    <state width="1864" height="230" key="GridCell.Tab.0.center" timestamp="1586220134803">
       <screen x="0" y="32" width="1920" height="1048" />
     </state>
-    <state width="1671" height="230" key="GridCell.Tab.0.center/0.32.1920.1048@0.32.1920.1048" timestamp="1586036381915" />
-    <state width="1671" height="230" key="GridCell.Tab.0.left" timestamp="1586036381915">
+    <state width="1864" height="230" key="GridCell.Tab.0.center/0.32.1920.1048@0.32.1920.1048" timestamp="1586220134803" />
+    <state width="1864" height="230" key="GridCell.Tab.0.left" timestamp="1586220134803">
       <screen x="0" y="32" width="1920" height="1048" />
     </state>
-    <state width="1671" height="230" key="GridCell.Tab.0.left/0.32.1920.1048@0.32.1920.1048" timestamp="1586036381915" />
-    <state width="1671" height="230" key="GridCell.Tab.0.right" timestamp="1586036381915">
+    <state width="1864" height="230" key="GridCell.Tab.0.left/0.32.1920.1048@0.32.1920.1048" timestamp="1586220134803" />
+    <state width="1864" height="230" key="GridCell.Tab.0.right" timestamp="1586220134804">
       <screen x="0" y="32" width="1920" height="1048" />
     </state>
-    <state width="1671" height="230" key="GridCell.Tab.0.right/0.32.1920.1048@0.32.1920.1048" timestamp="1586036381915" />
-    <state x="525" y="224" width="1022" height="737" key="SettingsEditor" timestamp="1586032359558">
+    <state width="1864" height="230" key="GridCell.Tab.0.right/0.32.1920.1048@0.32.1920.1048" timestamp="1586220134804" />
+    <state x="525" y="224" width="1022" height="737" key="SettingsEditor" timestamp="1586219136059">
       <screen x="0" y="32" width="1920" height="1048" />
     </state>
-    <state x="525" y="224" width="1022" height="737" key="SettingsEditor/0.32.1920.1048@0.32.1920.1048" timestamp="1586032359558" />
+    <state x="525" y="224" width="1022" height="737" key="SettingsEditor/0.32.1920.1048@0.32.1920.1048" timestamp="1586219136059" />
+    <state x="807" y="476" width="302" height="174" key="VCS.ChangelistChooser" timestamp="1586213081801">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="807" y="476" width="302" height="174" key="VCS.ChangelistChooser/0.32.1920.1048@0.32.1920.1048" timestamp="1586213081801" />
   </component>
 </project>

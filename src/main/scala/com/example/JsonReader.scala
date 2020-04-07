@@ -1,8 +1,9 @@
 package com.example
-import org.apache.spark.sql.SparkSession
+import org.apache.spark.rdd.RDD
+import org.apache.spark.sql._
 import org.json4s._
 import org.json4s.jackson.JsonMethods._
-import scala.io.Source
+
 
 object JsonReader extends App {
   override def main(args: Array[String]): Unit = {
@@ -13,6 +14,8 @@ object JsonReader extends App {
             .getOrCreate()
           spark.sparkContext.setLogLevel("ERROR")
 
+          import spark.implicits._
+
           case class WineBody(id: Option[String],
                               country: Option[String],
                               points: Option[String],
@@ -21,11 +24,10 @@ object JsonReader extends App {
                               variety: Option[String],
                               winery: Option[String])
 
-          implicit val formats = DefaultFormats 
 
-          for(line <- Source.fromFile(args(0)).getLines){
-              println(parse(line).extract[WineBody])
-          }
+          var file = spark.sparkContext.textFile(args(0))
+          
+          file.foreach(l=>{implicit val formats = DefaultFormats;println(parse(l).extract[WineBody])})
       }
   }
 }

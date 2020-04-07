@@ -4,7 +4,7 @@
 		module="json_reader_sabirov_2.11"
 		revision="0.0.1"
 		status="integration"
-		publication="20200404213815"
+		publication="20200407011852"
 	>
 		<description>
 		json_reader_sabirov
@@ -32,5 +32,6 @@
 		<dependency org="mrpowers" name="spark-daria" rev="0.35.2-s_2.11" conf="compile->default(compile)"/>
 		<dependency org="MrPowers" name="spark-fast-tests" rev="0.20.0-s_2.11" conf="test->default(compile)"/>
 		<dependency org="org.scalatest" name="scalatest_2.11" rev="3.0.1" conf="test->default(compile)"/>
+		<dependency org="org.json4s" name="json4s-jackson_2.11" rev="3.2.11" conf="compile->default(compile)"/>
 	</dependencies>
 </ivy-module>
